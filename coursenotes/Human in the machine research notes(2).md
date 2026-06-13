@@ -2,11 +2,6 @@
 
 **Copyright © 2026 Tiantian (Crystal) Zhang and Columbia Quant LLM Club. All rights reserved.**
 
-These notes are prepared from seminar discussions led by [Tiantian (Crystal) Zhang](https://tiantianz399.github.io/preview.html) for Columbia Quant LLM.  
-Course webpage: https://github.com/TiantianZ399/columbia-quant-llm.github.io
-
-Redistribution, reposting, commercial usage, or intermediary usage requires explicit permission from Tiantian (Crystal) Zhang and Columbia Quant LLM Club.
-
 ---
 
 ## Core Course Pages
