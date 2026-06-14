@@ -27,6 +27,8 @@ The course should start with these as the backbone:
 * Stanford CS336: Language Modeling from Scratch. ([Stanford CS336][3])
 * Percy Liang’s research page / reproducible research philosophy. ([Computer Science][1])
 * Marin: open framework for reproducible foundation-model research. ([GitHub][4])
+* Stanford CS 329A: self-improvement agent.([Stanford CS329A][https://scalingintelligence.stanford.edu/])
+* Stanford CS 229S: Systems for Machine Learning.([Stanford CS229S][https://cs229s.stanford.edu/fall2024/])
 
 **Seminar thesis:** foundation models should be studied as a scientific object, not only as engineering artifacts.
 
