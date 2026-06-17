@@ -6,7 +6,7 @@ Special acknowledgement:🌹
 
 💙https://www.columbia.edu/ , https://theory.cs.columbia.edu/, https://www.cs.stanford.edu/, machine learning theory community, my best friends🦁
 
-In here you contain all the pages and assets, see coursenotes folder. our first coursenotes in Human in the machine research [https://github.com/TiantianZ399/columbia-quant-llm.github.io/blob/main/coursenotes/Human%20in%20the%20machine%20research%20notes(2).md](https://discord.com/channels/993663597962080337/994009749895000164/1516799541494419496)
+In here you contain all the pages and assets, see coursenotes folder. our first coursenotes in Human in the machine research: https://github.com/TiantianZ399/columbia-quant-llm.github.io/blob/3f7e52722b2e51e36a720df5addca1e90aedc258/coursenotes/Human_in_the_machine_research_notes.md
 
 All rights reserved, https://columbiaquantllm.com/ and Titania(女娲） studio. 
 
