@@ -10,7 +10,7 @@ In here you contain all the pages and assets, see coursenotes folder. our first 
 
 All rights reserved, https://columbiaquantllm.com/ and Titania(女娲） studio. 
 
-course organizer and part of instructor : https://tiantianz399.github.io/preview.html, https://www.linkedin.com/in/crystal-zhangg/
+course organizer and part of instructor : https://github.com/TiantianZ399/TiantianZ399.github.io/blob/main/preview.html
 
 
 
