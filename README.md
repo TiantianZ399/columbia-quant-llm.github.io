@@ -1,9 +1,6 @@
 # Columbia Quant LLM Reading Group Website
 
-This is the github repo for second product for 
-https://tiantianz399.github.io/Quant_LLM_Lab/studio/Titania.html 
-
-the most frontier cultural studio built towards idealism community. 
+This is the repository for LLM learning theory seminar and paper reading group run by https://columbiaquantllm.com/, and currently led by https://www.linkedin.com/in/crystal-zhangg/
 
 Special acknowledgement:🌹
 
