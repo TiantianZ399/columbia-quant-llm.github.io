@@ -1,4 +1,4 @@
-# Human in the Machine(2)
+# Human in the Machine
 
 **Copyright © 2026 Tiantian (Crystal) Zhang and Columbia Quant LLM Club. All rights reserved.**
 
